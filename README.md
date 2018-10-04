@@ -1,5 +1,5 @@
 # LoRaWAN
-This is a LoRaWAN v1.0 implementation in python.
+This is a LoRaWAN v1.0 implementation in python, modified for the Raspberry Pi Radio Bonnet
 
 It uses https://github.com/mayeranalytics/pySX127x and it's currently being tested with a RFM95 attached to a Raspberry PI.
 
